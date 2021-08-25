@@ -1,4 +1,4 @@
-# prokit_flutter
+# UI sample flutter
 
 Note:
 - Importing mobx is a must as Mobx is used for changing colors in the entire app (eg. Dark Mode to Light Mode and vice versa).
